@@ -83,7 +83,7 @@ Zie het onderstaande voorbeeld:
 ```php
 <?php
     function search($hooiberg, $speld) {
-    #aanvullen 
+    #aanvullen; ik wil de positie terugkrijgen
     }
     $arr = array(4, 2, 5, 6, 14, 7, 15, 3);
     echo search($arr, 14);
