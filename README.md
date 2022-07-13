@@ -67,7 +67,7 @@ Wat is recursie en geef een voorbeeld (of implementatie) waar dit nuttig kan zij
 ![droste blik](https://www.hollandwinkel.nl/media/catalog/product/cache/831b25158591b46ca6e0d32ee6983c83/c/a/cacao-droste.png "recursie")
 
 ## Client-side vs server-side
-Wat is het verschil tussen client-side code (denk aan JavaScript in de browser) en server-side code en hoe voorzie ik interactie tussen die twee, geef een voorbeeld. 
+Wat is het verschil tussen client-side code (denk aan JavaScript in de browser) en server-side code en geef aan hoe je interactie voorziet tussen die twee.
 
 ## Definitie van een loop
 Geef drie voorbeelden van een loop en implementeer er een naar keuze;
