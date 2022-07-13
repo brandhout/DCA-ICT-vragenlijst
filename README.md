@@ -31,7 +31,7 @@ exit;
 ```
 
 ## CSS specificity hierarchy
-Leg van elk element in de <body> uit welke kleur de tekst en de achtergrond krijgt. 
+Leg van elk element in de ```<body>``` uit welke kleur de tekst en de achtergrond krijgt. 
 
 ```html
 
