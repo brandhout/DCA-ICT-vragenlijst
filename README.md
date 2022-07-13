@@ -76,3 +76,16 @@ Geef drie voorbeelden van een loop en implementeer er een naar keuze;
 - Indien deelbaar door 3; toon de string "hoi" in plaats van het nummer
 - Indien deelbaar door 5; toon de string "DCA" in plaats van het nummer
 - Indien deelbaar door 3 en door 5; toon de string "DCA-ICT" in plaats van het nummer
+
+## Lineair search 
+Implementeer een lineaire zoekfunctie in een webdevelopment taal naar keuze; bijvoorbeeld PHP.
+Zie het onderstaande voorbeeld:
+```php
+<?php
+    function search($hooiberg, $speld) {
+    #aanvullen 
+    }
+    $arr = array(4, 2, 5, 6, 14, 7, 15, 3);
+    echo search($arr, 14);
+?>
+```
