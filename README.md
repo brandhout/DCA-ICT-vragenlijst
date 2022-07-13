@@ -33,6 +33,7 @@ if($wachtwoord === $gebruikerinvoer) {
 
 ## CSS specificity hierarchy
 Leg van elk element in de ```<body>``` uit welke kleur de tekst en de achtergrond krijgt. 
+** Doe dit uit je hoofd ** 
 
 ```html
 
