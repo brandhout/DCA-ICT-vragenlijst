@@ -23,9 +23,10 @@ $gebruikerinvoer = 'Doei02!';
 #deze vergelijking moet uiteraard blijven werken, eventueel in gewijzigde vorm
 if($wachtwoord === $gebruikerinvoer) {
     inloggen();
+} else {
+    throw new Exception('Wachtwoord onjuist');
+    exit;
 }
-throw new Exception('Wachtwoord onjuist');
-exit;
 ?>
 
 ```
