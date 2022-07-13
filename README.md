@@ -6,10 +6,10 @@ Lever de antwoorden in een git-repository aan; je kan deze repo 'clonen' en aanv
 Leg dit uit in een (webdevelopment) taal naar keuze, bijvoorbeeld PHP of JavaScript. 
 
 ## Maak deze implementatie af
-In deze PHP-implementatie hebben we een 'vast' wachtwoord ($wachtwoord) en een pseudo ingevuld wachtwoord door een gebruiker ($gebruikerinvoer). 
+In deze PHP-implementatie hebben we een 'vast' wachtwoord (```$wachtwoord```) en een pseudo ingevuld wachtwoord door een gebruiker (```$gebruikerinvoer```). 
 Uiteraard komen we in de exit; terecht, de variabelen ('wachtwoorden') zijn niet gelijk.
 
-Herschijf deze implementatie; hash het $wachtwoord variabele en zorg dat deze gecontroleerd kan worden op basis van de plaintekst invoer ($gebruikerinvoer)
+Herschijf deze implementatie; hash het $wachtwoord variabele en zorg dat deze gecontroleerd kan worden op basis van de plaintekst invoer (```$gebruikerinvoer```)
 
 
 ```php
